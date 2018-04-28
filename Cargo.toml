@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Thomas Heilbronner <thomas.heilbronner@gmail.com>"]
 
 [dependencies]
+pulldown-cmark = { version = "0.1.2", default-features = false }
